@@ -1,2 +1,3 @@
 # inpres-cli
-CLI server to get seismic reports from INPRES and posting it in plain text
+A CLI server to get seismic reports from INPRES and posting it on plain text
+Feel free modificating and pull requesting new modifications!
