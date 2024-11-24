@@ -1,4 +1,4 @@
-If you send a pull request, ¡add you here!
+If you send a pull request, add you here!
 
 Maintainers:
     - Adriel Ulloa
